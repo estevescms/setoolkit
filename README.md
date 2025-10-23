@@ -18,3 +18,4 @@ Configurando o Phishing no Kali Linux
     resultado
 
 
+[prints.pdf](https://github.com/user-attachments/files/23102111/prints.pdf)
